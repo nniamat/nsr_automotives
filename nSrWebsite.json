@@ -2,7 +2,6 @@
   "name": "car",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nsrautomotive.co.uk",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
